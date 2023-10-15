@@ -17,6 +17,7 @@ An elegant React.js Music Application.
 
 ## Top Charts Page
 Noting that it changes with locations! (these are the results for EGYPT)
+
 ![topHits](https://github.com/malak-elbanna/Musicalli/blob/main/Screenshots/topHits.png)
 
 ## Top Artists Page
@@ -24,4 +25,5 @@ Noting that it changes with locations! (these are the results for EGYPT)
 
 ## Top Songs
 This is on an international level!
+
 ![topSongs](https://github.com/malak-elbanna/Musicalli/blob/main/Screenshots/topSongs.png)
